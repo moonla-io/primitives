@@ -1,0 +1,13 @@
+{
+  "name": "@moonla/primitives",
+  "version": "0.0.1",
+  "description": "UI primitives",
+  "files": [
+    "dist"
+  ],
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "repository": "git@github.com:moonla-io/primitives.git",
+  "author": "Daw-Chih Liou <dawochih.liou@gmail.com>",
+  "license": "MIT"
+}
